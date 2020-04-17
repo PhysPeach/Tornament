@@ -7,6 +7,6 @@ fmt:
 	go fmt .
 
 run:
-	bee run
+	bee run -downdoc=true -gendoc=true
 
 .PHONY: help fmt run

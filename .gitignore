@@ -1,5 +1,9 @@
 *.exe
 *.swp
 
-.env
+# 出力ファイル
+/Tornament
+/swagger/
+
+# VSCode
 .vscode/

@@ -1,6 +1,7 @@
 package main
 
 import (
+	_ "github.com/PhysPeach/Tornament/routers"
 	"github.com/astaxie/beego"
 )
 

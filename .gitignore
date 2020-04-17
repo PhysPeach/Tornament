@@ -1,5 +1,6 @@
 *.exe
 *.swp
+*.tmp
 
 # 出力ファイル
 /Tornament
